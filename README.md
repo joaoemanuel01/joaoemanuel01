@@ -1,7 +1,5 @@
 ## 👨🏽‍💻 João Emanuel
 
-# 👩🏻‍💻 Larissa Kich
-
 **`Desenvolvedor BackEnd Jr.`**
 
 Me chamo João Emanuel Ribeiro Silva Martins, tenho 18 anos e sou natural de Goiânia. Concluí o ensino médio no Colégio Planeta. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IPOG. Sou apaixonado por tecnologia e estou sempre buscando estudar e aprender coisas novas que possam somar para minha carreira.
