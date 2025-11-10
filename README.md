@@ -2,7 +2,10 @@
 
 **`Desenvolvedor BackEnd Jr.`**
 
-Me chamo João Emanuel Ribeiro Silva Martins, tenho 18 anos e sou natural de Goiânia. Concluí o ensino médio no Colégio Planeta. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IPOG. Sou apaixonado por tecnologia e estou sempre buscando estudar e aprender coisas novas que possam somar para minha carreira.
+Me chamo **João Emanuel Ribeiro Silva Martins**, tenho 18 anos e sou apaixonado por tecnologia — especialmente pelo **desenvolvimento Back-End**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas no IPOG**, onde venho me aprofundando em **Java, Maven, Spring Boot, PostgreSQL e OracleDB**.  
+Estou constantemente construindo **projetos práticos** para fortalecer minha base técnica e consolidar meus aprendizados.  
+Sou natural de **Goiânia (GO)** e tenho como objetivo evoluir profissionalmente na área de desenvolvimento de software.
 
 ---
 
