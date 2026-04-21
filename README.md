@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd Jr.`**
 
-Me chamo **João Emanuel Ribeiro Silva Martins**, tenho 18 anos e sou apaixonado por tecnologia, especialmente pelo **desenvolvimento Back-End**.  
+Me chamo **João Emanuel Ribeiro Silva Martins**, tenho 19 anos e sou apaixonado por tecnologia, especialmente pelo **desenvolvimento Back-End**.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas no IPOG**, onde venho me aprofundando em **Java, Maven, Spring Boot, PostgreSQL e OracleDB**.  
 Estou constantemente construindo **projetos práticos** para fortalecer minha base técnica e consolidar meus aprendizados.  
 Sou natural de **Goiânia (GO)** e tenho como objetivo evoluir profissionalmente na área de desenvolvimento de software.
